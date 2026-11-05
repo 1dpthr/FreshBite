@@ -1,0 +1,10 @@
+{
+  "description": "Browse nearby meals, explore food categories, add dishes to your cart, and track recent orders with FreshBite’s convenient customer dashboard.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
